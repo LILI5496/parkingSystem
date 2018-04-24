@@ -13,9 +13,9 @@
 </head>
 <body>
 <div id="header">
-    <a class="back" id="leftTopBtn" href="javascript:goBack()">&lt;&nbsp;随心停</a>
+    <a class="back" id="leftTopBtn" href="javascript:goBack()">&lt;&nbsp;停车场设计系统</a>
     <div class="title">
-        小区停车场管理系统
+        停车场设计系统
     </div>
     <a href="javascript:;" class="menu-btn">
     </a>
@@ -23,14 +23,14 @@
         <ul>
             <li class="menu-home">
                 <i class="iconfont icon-home"></i>
-                <a href="welcome/index" data-stat-label="随心停">
-                    随心停
+                <a href="welcome/index" data-stat-label="停车场设计系统">
+                    停车场设计系统
                 </a>
             </li>
             <li class="menu-user">
                 <i class="iconfont icon-about"></i>
-                <a href="user" data-stat-label="我的随心停">
-                    我的随心停
+                <a href="user" data-stat-label="我的停车场">
+                    我的停车场
                     <?php
                     $login_user = $this->session->userdata('userinfo');
                     if ($login_user) { ?>
@@ -92,7 +92,7 @@
     </div>
     <div class="footer">
         <div class="c-title">
-            <h2>随心停便利你的生活</h2>
+            <h2>便利你的生活</h2>
             <p>选择一个您合适的停车位</p>
         </div>
         <ul class="f-icons clearfix">

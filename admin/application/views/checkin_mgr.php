@@ -3,7 +3,7 @@
 <head>
     <?php include 'meta.php'; ?>
 
-    <title>随心停后台管理系统 - 停车管理</title>
+    <title>停车场后台管理系统 - 停车管理</title>
 
     <base href="<?php echo site_url(); ?>">
 
@@ -63,7 +63,7 @@
                 <li>
                     <a href="#">订单管理</a>
                 </li>
-                <li class="active"> 停车管理</li>
+                <li class="active"> 订单管理</li>
             </ul>
         </div>
         <!-- page heading end-->

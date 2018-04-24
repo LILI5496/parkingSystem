@@ -18,8 +18,8 @@
             <div class="media logged-user">
                 <img alt="" src="uploads/developer/header.png" class="media-object">
                 <div class="media-body">
-                    <h4><a href="#">孟昊阳</a></h4>
-                    <span>"Hello 孟昊阳..."</span>
+                    <h4><a href="#">李丽</a></h4>
+                    <span>"Hello 李丽..."</span>
                 </div>
             </div>
         </div>

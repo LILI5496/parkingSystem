@@ -4,7 +4,7 @@
     <?php include 'meta.php'; ?>
 
 
-    <title>随心停后台管理系统 - 首页</title>
+    <title>停车场后台管理系统 - 首页</title>
 
     <base href="<?php echo site_url(); ?>">
 
@@ -52,14 +52,8 @@
         <!-- page heading start-->
         <div class="page-heading">
             <h3>
-                管理首页
+                首页
             </h3>
-            <ul class="breadcrumb">
-                <li>
-                    <a href="#">首页</a>
-                </li>
-                <li class="active"> 管理首页</li>
-            </ul>
         </div>
         <!-- page heading end-->
 

@@ -15,8 +15,8 @@
             </li>
             <li class="menu-user">
                 <i class="iconfont icon-about"></i>
-                <a href="user"  data-stat-label="我的随心停">
-                    我的随心停
+                <a href="user"  data-stat-label="我的停车场">
+                    我的停车场
                     <?php
                     $login_user = $this->session->userdata('userinfo');
                     if ($login_user) { ?>

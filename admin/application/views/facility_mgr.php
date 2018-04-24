@@ -3,7 +3,7 @@
 <head>
     <?php include 'meta.php'; ?>
 
-    <title>随心停后台管理系统 - 设备管理</title>
+    <title>停车场后台管理系统 - 设备管理</title>
 
     <base href="<?php echo site_url(); ?>">
 

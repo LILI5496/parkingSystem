@@ -78,7 +78,7 @@ class Wxpay extends CI_Controller {
 		$c->secretKey = "8621bcd8b81313dd25c5b4fb7c034911";
 		$req = new AlibabaAliqinFcSmsNumSendRequest;
 		$req->setSmsType("normal");
-		$req->setSmsFreeSignName("孟昊阳毕设随心停");
+		$req->setSmsFreeSignName("李丽毕设停车场设计系统");
 		$req->setSmsParam("{'time':'".date("Y年m月d日")."','address':'".$park->city.$park->region.$park->street.$park->plot_name."','starttime':'".$order->start_time."','tel':'".$park->tel."'}");
 		$req->setRecNum($order->invoice_person_tel);
 		$req->setSmsTemplateCode('SMS_61355153');

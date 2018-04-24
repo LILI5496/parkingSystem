@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="keywords" content="孟昊阳20134200"/>
-    <meta name="description" content="孟昊阳20134200"/>
+    <meta name="keywords" content="李丽20145496"/>
+    <meta name="description" content="李丽20145496"/>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name='apple-touch-fullscreen' content='yes'>
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -136,7 +136,7 @@
             errMsg: '请勾选网站协议!',
             name: '',
             tel: '',
-            rule: '孟昊阳20134200小区停车管理系统毕业设计，孟昊阳20134200小区停车管理系统毕业设计，孟昊阳20134200小区停车管理系统毕业设计'
+            rule: '李丽20145496停车场设计系统毕业设计，李丽20145496停车场设计系统毕业设计，李丽20145496停车场设计系统毕业设计'
         },
         methods: {
             check: function () {
@@ -191,7 +191,7 @@
             },
             showProtocol: function () {  //显示网站协议，并且自动打勾
                 this.errTitle = '协议内容';
-                this.errMsg = '孟昊阳20134200小区停车管理系统毕业设计';
+                this.errMsg = '李丽20145496停车场设计系统毕业设计';
                 this.msgShow = true;
                 this.modalShow = true;
                 this.btnShow = true;

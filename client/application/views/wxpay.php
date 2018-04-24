@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="keywords" content="孟昊阳20134200"/>
-    <meta name="description" content="孟昊阳20134200"/>
+    <meta name="keywords" content="李丽20145496"/>
+    <meta name="description" content="李丽20145496"/>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name='apple-touch-fullscreen' content='yes'>
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -63,12 +63,12 @@
     </div>
 </div>
 <div class="wenx_xx">
-    <div class="mz">随心停车</div>
+    <div class="mz">停车</div>
     <div class="mz">订单编号:<?php echo $orderno; ?></div>
     <div class="wxzf_price">￥<?php echo $fee; ?></div>
 </div>
 <div class="skf_xinf">
-    <div class="all_w"><span class="bt">收款方</span> <span class="fr">孟昊阳毕设随心停</span></div>
+    <div class="all_w"><span class="bt">收款方</span> <span class="fr">李丽毕设停车场系统</span></div>
 </div>
 <button onclick="callpay()" class="ljzf_but all_w">立即支付</button>
 </body>

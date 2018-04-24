@@ -3,7 +3,7 @@
 <head>
     <?php include 'meta.php'; ?>
 
-    <title>随心停后台管理系统 - 管理员管理</title>
+    <title>停车场后台管理系统 - 管理员管理</title>
 
     <base href="<?php echo site_url(); ?>">
 
@@ -54,7 +54,7 @@
         <!-- page heading start-->
         <div class="page-heading">
             <h3>
-                管理员管理
+                管理员管理板块
             </h3>
             <ul class="breadcrumb">
                 <li>

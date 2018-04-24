@@ -1,3 +1,3 @@
 <footer>
-    2017 &copy; 随心停管理系统 by 孟昊阳
+    2018 &copy; 停车场设计系统 by 李丽
 </footer>
