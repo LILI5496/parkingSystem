@@ -411,8 +411,8 @@ class Welcome extends CI_Controller
         $c->secretKey = "8621bcd8b81313dd25c5b4fb7c034911";
         $req = new AlibabaAliqinFcSmsNumSendRequest;
         $req->setSmsType("normal");
-        $req->setSmsFreeSignName("随心停");
-        $req->setSmsParam("{'code':'" . $code . "','product':'孟昊阳毕业论文答辩'}");
+        $req->setSmsFreeSignName("停车场");
+        $req->setSmsParam("{'code':'" . $code . "','product':'李丽毕业论文答辩'}");
         $req->setRecNum($phone);
         $req->setSmsTemplateCode($temp_id);
         $resp = $c->execute($req);

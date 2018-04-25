@@ -3,7 +3,7 @@
     <div class="logo">
         <a href="welcome">
             <img src="images/logo.png" alt="" width="50">
-            <span>随心停管理系统</span>
+            <span>停车场设计系统</span>
         </a>
     </div>
 
